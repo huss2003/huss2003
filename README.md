@@ -24,4 +24,4 @@
 ## Work with me
 
 I build AI automation for US businesses: AI receptionists, lead follow-up, internal tools and agents.
-Reach me on [LinkedIn](https://www.linkedin.com/) or open an issue on any repo.
+Reach me on [LinkedIn](https://www.linkedin.com/in/hussain-singapuri-18437225a/) or open an issue on any repo.
