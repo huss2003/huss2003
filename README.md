@@ -4,11 +4,18 @@
 
 3 years building full-stack apps and AI agents for a US medical-device company, plus security testing on 5+ live Play Store apps. B.Tech in CSE (AI & ML) from VIIT Pune.
 
-[LinkedIn](https://www.linkedin.com/in/hussain-singapuri-18437225a/) · [Kilnwood (live)](https://kilnwood-roasters.vercel.app) · [PageForge (live)](https://pageforge-hazel.vercel.app/abm)
+[LinkedIn](https://www.linkedin.com/in/hussain-singapuri-18437225a/) · [Lumen (live)](https://lumen-release.vercel.app) · [Kilnwood (live)](https://kilnwood-roasters.vercel.app) · [PageForge (live)](https://pageforge-hazel.vercel.app/abm)
 
 ---
 
 ## Websites & products
+
+### [Lumen: Spring '27 Release](https://github.com/huss2003/lumen-release) · [live site](https://lumen-release.vercel.app)
+
+[![Lumen: Spring '27 Release](https://raw.githubusercontent.com/huss2003/lumen-release/main/docs/cover.jpg)](https://lumen-release.vercel.app)
+
+A scroll-driven launch site for a fictional AI creative suite, told as one continuous scroll story. A glass lens drawn live on canvas splits its halo into twelve colour bands; the bands hand off seamlessly into a pinned section where each one opens into an iridescent glass panel for one tool, then settles into a filterable grid. Panels tilt with a holographic foil on hover and open into a detail sheet that grows from the click point.
+**Stack:** Next.js, TypeScript, GSAP (ScrollTrigger, snapping), Lenis, Canvas 2D, Vercel
 
 ### [Kilnwood Roasters](https://github.com/huss2003/kilnwood-roasters) · [live site](https://kilnwood-roasters.vercel.app)
 
@@ -48,7 +55,7 @@ Account-based marketing pages with evidence behind every claim. A marketer turns
 ## Stack
 
 **AI:** LLM inference, RAG, multi-agent systems, tool use, evals, prompt-injection defence
-**Front end:** Next.js, React, TypeScript, Tailwind, GSAP, Lenis, motion and interaction design
+**Front end:** Next.js, React, TypeScript, Tailwind, GSAP, Lenis, Canvas, motion and interaction design
 **Backend:** FastAPI, Node.js, PostgreSQL, Supabase, Sanity
 **Automation:** workflow automation, webhooks and CRM integrations
 **Infra:** Docker, Vercel, GitHub Actions
