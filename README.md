@@ -2,9 +2,9 @@
 
 **Software developer turned AI engineer.** I build AI agents, automations and fast, polished websites, and I use AI every day to ship them quickly.
 
-3 years building full-stack apps and AI agents for a US medical-device company, plus security testing on 5+ live Play Store apps. B.Tech in CSE (AI & ML) from VIIT Pune.
+3 years (2023–2026) as a full stack developer at a US medical-device company, building web apps and AI agents, plus security testing on 5+ live Play Store apps. B.Tech in CSE (AI & ML) from VIIT Pune.
 
-[LinkedIn](https://www.linkedin.com/in/hussain-singapuri-18437225a/) · [Lumen (live)](https://lumen-release.vercel.app) · [Kilnwood (live)](https://kilnwood-roasters.vercel.app) · [PageForge (live)](https://pageforge-hazel.vercel.app/abm)
+[LinkedIn](https://www.linkedin.com/in/hussain-singapuri-18437225a/) · [Lumen (live)](https://lumen-release.vercel.app) · [Kilnwood (live)](https://kilnwood-roasters.vercel.app) · [Cairnmoor (live)](https://cairnmoor.vercel.app) · [Lowlight (live)](https://lowlight-video-club.vercel.app) · [PageForge (live)](https://pageforge-hazel.vercel.app/abm)
 
 ---
 
@@ -23,6 +23,18 @@ A scroll-driven launch site for a fictional AI creative suite, told as one conti
 
 A motion-led, editorial site for a fictional coffee roastery. An opening sequence deals real coffee photos onto a card while the brand name splits around it, then the last photo opens out to become the hero. Smooth scrolling, a pinned horizontal product lineup, a scroll-driven process timeline, and scroll-velocity marquees.
 **Stack:** Next.js, TypeScript, GSAP (ScrollTrigger, SplitText), Lenis, Vercel
+
+### Cairnmoor · [live site](https://cairnmoor.vercel.app)
+
+A calm-luxury website for a fictional Highland thermal-baths retreat. Mist parts over a dawn loch before the name rises letter by letter; a pinned intro morphs photo frames between organic shapes while text screens fade in and out; sections wipe open in layers; a tilted 3D map follows the pointer and pops up photos on its pins; and a pinned panorama pans across the glen with drifting mist. Dedicated mobile layouts and a reduced-motion version.
+**Stack:** Next.js, TypeScript, GSAP (ScrollTrigger, SplitText, MorphSVG), Lenis, Vercel
+
+### [Lowlight Video Club](https://github.com/huss2003/lowlight-video-club) · [live site](https://lowlight-video-club.vercel.app)
+
+[![Lowlight Video Club](https://raw.githubusercontent.com/huss2003/lowlight-video-club/main/docs/home.jpg)](https://lowlight-video-club.vercel.app)
+
+An interactive website for a fictional film-restoration club that lives inside an old CRT television, where every film is a VHS tape. A 3D tape deck in three.js runs on hand-written spring physics (drag, fling, scroll, keyboard); each sleeve is painted live from a film still and aged procedurally; WebGL and page content share one screen-curve distortion; and pages change with a channel-switch transition. Fallbacks for phones, reduced motion and slow graphics cards.
+**Stack:** HTML, CSS, JavaScript (no framework), three.js, WebGL, View Transitions, Vercel
 
 ### [PageForge](https://github.com/huss2003/pageforge) · [live demo](https://pageforge-hazel.vercel.app/abm)
 
@@ -63,8 +75,7 @@ Account-based marketing pages with evidence behind every claim. A marketer turns
 
 ## Certifications
 
-- AWS GenAI Developer Professional
-- Microsoft AI & ML Engineering Professional Certificate
+- Claude Certified Developer – Foundations (CCDV-F)
 
 ## Work with me
 
